@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439176478978",
+    "firebase_url": "https://cal4u-53466.firebaseio.com",
+    "project_id": "cal4u-53466",
+    "storage_bucket": "cal4u-53466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439176478978:android:aac310fcd0d59cad21821b",
+        "android_client_info": {
+          "package_name": "com.gk.cal4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439176478978-01cqmsnm8nid21snu02qdr8vvr8l70ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1YO15SGuUfohDKsKbbmacVvoY84L_l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439176478978-01cqmsnm8nid21snu02qdr8vvr8l70ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
